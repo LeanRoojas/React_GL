@@ -1,0 +1,7 @@
+form{
+  display: flex;
+  justify-content: center;
+  margin: .5rem ;
+  width: 100vw;
+  padding: 0 auto;
+}
